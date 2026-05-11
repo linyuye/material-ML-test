@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Na2Ge
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.34990978
+_cell_length_b   4.96433667
+_cell_length_c   12.13308709
+_cell_angle_alpha   87.60829166
+_cell_angle_beta   94.96253714
+_cell_angle_gamma   122.57935468
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2Ge
+_chemical_formula_sum   'Na8 Ge4'
+_cell_volume   169.38415986
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.73573208  0.64439934  0.21183497  1
+  Na  Na1  1  0.91599315  0.61003524  0.85046363  1
+  Na  Na2  1  0.01449394  0.45858404  0.51826584  1
+  Na  Na3  1  0.38237402  0.19158000  0.08441468  1
+  Ge  Ge4  1  0.17797919  0.30368188  0.92065257  1
+  Na  Na5  1  0.79255646  0.31828558  0.37883109  1
+  Na  Na6  1  0.10613499  0.02295232  0.38881925  1
+  Na  Na7  1  0.37296686  0.63863182  0.02296285  1
+  Na  Na8  1  0.88036937  0.61150545  0.76125866  1
+  Ge  Ge9  1  0.94681084  0.58710796  0.01214002  1
+  Ge  Ge10  1  0.74266243  0.05130993  0.64714199  1
+  Ge  Ge11  1  0.22765191  0.73311990  0.81194109  1

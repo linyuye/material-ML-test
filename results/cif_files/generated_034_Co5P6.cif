@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Co5P6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.55375528
+_cell_length_b   4.61240258
+_cell_length_c   13.98607765
+_cell_angle_alpha   86.84521017
+_cell_angle_beta   87.09349338
+_cell_angle_gamma   80.93304759
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co5P6
+_chemical_formula_sum   'Co5 P6'
+_cell_volume   225.83759731
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  P  P0  1  nan  nan  nan  1
+  Co  Co1  1  nan  nan  nan  1
+  P  P2  1  nan  nan  nan  1
+  P  P3  1  nan  nan  nan  1
+  Co  Co4  1  nan  nan  nan  1
+  P  P5  1  nan  nan  nan  1
+  P  P6  1  nan  nan  nan  1
+  Co  Co7  1  nan  nan  nan  1
+  P  P8  1  nan  nan  nan  1
+  Co  Co9  1  nan  nan  nan  1
+  Co  Co10  1  nan  nan  nan  1

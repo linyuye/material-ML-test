@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Sm5AlGa2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.71988058
+_cell_length_b   4.36061524
+_cell_length_c   11.60399438
+_cell_angle_alpha   85.13264988
+_cell_angle_beta   94.42201728
+_cell_angle_gamma   94.43017524
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm5AlGa2
+_chemical_formula_sum   'Sm5 Al1 Ga2'
+_cell_volume   236.65729435
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.36718750  0.07720947  0.83984375  1
+  Sm  Sm1  1  0.12695312  0.47656250  0.61254883  1
+  Sm  Sm2  1  0.86645508  0.00976562  0.05566406  1
+  Sm  Sm3  1  0.66699219  0.70312500  0.03710938  1
+  Sm  Sm4  1  0.30078125  0.58593750  0.12109375  1
+  Al  Al5  1  0.67187500  0.30175781  0.17089844  1
+  Sm  Sm6  1  0.33300781  0.75000000  0.38964844  1
+  Ga  Ga7  1  0.09375000  0.31640625  0.01953125  1

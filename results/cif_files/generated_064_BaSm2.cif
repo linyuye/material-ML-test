@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_BaSm2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.92263079
+_cell_length_b   3.93093996
+_cell_length_c   15.03257171
+_cell_angle_alpha   85.05145169
+_cell_angle_beta   93.19946915
+_cell_angle_gamma   71.00376191
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaSm2
+_chemical_formula_sum   'Ba8 Sm16'
+_cell_volume   272.93297745
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  nan  nan  nan  1
+  Sm  Sm1  1  nan  nan  nan  1
+  Ba  Ba2  1  nan  nan  nan  1
+  Ba  Ba3  1  nan  nan  nan  1
+  Sm  Sm4  1  nan  nan  nan  1
+  Ba  Ba5  1  nan  nan  nan  1
+  Sm  Sm6  1  nan  nan  nan  1
+  Sm  Sm7  1  nan  nan  nan  1
+  Sm  Sm8  1  nan  nan  nan  1
+  Sm  Sm9  1  nan  nan  nan  1
+  Sm  Sm10  1  nan  nan  nan  1
+  Sm  Sm11  1  nan  nan  nan  1
+  Ba  Ba12  1  nan  nan  nan  1
+  Sm  Sm13  1  nan  nan  nan  1
+  Ba  Ba14  1  nan  nan  nan  1
+  Sm  Sm15  1  nan  nan  nan  1
+  Ba  Ba16  1  nan  nan  nan  1
+  Sm  Sm17  1  nan  nan  nan  1
+  Sm  Sm18  1  nan  nan  nan  1
+  Ba  Ba19  1  nan  nan  nan  1
+  Sm  Sm20  1  nan  nan  nan  1
+  Sm  Sm21  1  nan  nan  nan  1
+  Ba  Ba22  1  nan  nan  nan  1
+  Sm  Sm23  1  nan  nan  nan  1

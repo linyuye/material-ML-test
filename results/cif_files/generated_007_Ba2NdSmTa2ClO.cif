@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Ba2NdSmTa2ClO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.81864071
+_cell_length_b   3.51755991
+_cell_length_c   13.30017807
+_cell_angle_alpha   88.11711068
+_cell_angle_beta   90.20068022
+_cell_angle_gamma   93.26971965
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2NdSmTa2ClO
+_chemical_formula_sum   'Ba2 Nd1 Sm1 Ta2 Cl1 O1'
+_cell_volume   224.94731302
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.26165459  0.65387064  0.59339672  1
+  Ta  Ta1  1  0.98441857  0.19558966  0.79673219  1
+  Ba  Ba2  1  0.85734361  0.19212154  0.39804205  1
+  O  O3  1  0.57392859  0.43351269  0.45802549  1
+  Sm  Sm4  1  0.26908022  0.41920850  0.86417127  1
+  Cl  Cl5  1  0.93958485  0.41713309  0.11118687  1
+  Nd  Nd6  1  0.46550149  0.54694849  0.83996534  1
+  Ta  Ta7  1  0.76913822  0.02066418  0.21514100  1

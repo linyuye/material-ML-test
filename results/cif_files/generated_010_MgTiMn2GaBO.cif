@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_MgTiMn2GaBO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.59126735
+_cell_length_b   3.21098853
+_cell_length_c   11.65227666
+_cell_angle_alpha   87.18440443
+_cell_angle_beta   89.16509952
+_cell_angle_gamma   116.82961868
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgTiMn2GaBO
+_chemical_formula_sum   'Mg1 Ti1 Mn2 Ga1 B1 O1'
+_cell_volume   119.65748024
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.48838818  0.16451915  0.96463662  1
+  Ga  Ga1  1  0.82669479  0.03297751  0.70823383  1
+  O  O2  1  0.58573461  0.71175706  0.82287031  1
+  B  B3  1  0.38211980  0.05895519  0.45953628  1
+  Mg  Mg4  1  0.20093107  0.93761450  0.26858592  1
+  Ti  Ti5  1  0.38268745  0.97004116  0.92325294  1
+  Mn  Mn6  1  0.18233304  0.68919629  0.90275216  1

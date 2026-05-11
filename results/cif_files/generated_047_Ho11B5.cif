@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ho11B5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.56099129
+_cell_length_b   3.55517432
+_cell_length_c   9.76077747
+_cell_angle_alpha   87.12680770
+_cell_angle_beta   90.15173683
+_cell_angle_gamma   123.28789268
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho11B5
+_chemical_formula_sum   'Ho11 B5'
+_cell_volume   132.07847912
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  nan  nan  nan  1
+  Ho  Ho1  1  nan  nan  nan  1
+  Ho  Ho2  1  nan  nan  nan  1
+  Ho  Ho3  1  nan  nan  nan  1
+  Ho  Ho4  1  nan  nan  nan  1
+  Ho  Ho5  1  nan  nan  nan  1
+  B  B6  1  nan  nan  nan  1
+  Ho  Ho7  1  nan  nan  nan  1
+  Ho  Ho8  1  nan  nan  nan  1
+  Ho  Ho9  1  nan  nan  nan  1
+  B  B10  1  nan  nan  nan  1
+  B  B11  1  nan  nan  nan  1
+  B  B12  1  nan  nan  nan  1
+  Ho  Ho13  1  nan  nan  nan  1
+  B  B14  1  nan  nan  nan  1
+  Ho  Ho15  1  nan  nan  nan  1

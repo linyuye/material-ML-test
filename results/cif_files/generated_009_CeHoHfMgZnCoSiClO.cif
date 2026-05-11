@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_CeHoHfMgZnCoSiClO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.49858451
+_cell_length_b   3.82076590
+_cell_length_c   14.04440874
+_cell_angle_alpha   87.28798155
+_cell_angle_beta   85.76979886
+_cell_angle_gamma   75.28260158
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeHoHfMgZnCoSiClO
+_chemical_formula_sum   'Ce1 Ho1 Hf1 Mg1 Zn1 Co1 Si1 Cl1 O1'
+_cell_volume   181.00181246
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.16113470  0.26869825  0.21907973  1
+  O  O1  1  0.82187706  0.77941382  0.29216626  1
+  Ce  Ce2  1  0.46906966  0.59823251  0.97120839  1
+  Si  Si3  1  0.00728221  0.71153063  0.10489286  1
+  Mg  Mg4  1  0.04879492  0.10684635  0.65139753  1
+  Zn  Zn5  1  0.84100878  0.61139774  0.33780289  1
+  Hf  Hf6  1  0.94553381  0.90797573  0.64959341  1
+  Co  Co7  1  0.52104574  0.58590806  0.33337781  1
+  Ho  Ho8  1  0.57717711  0.63590354  0.71170592  1

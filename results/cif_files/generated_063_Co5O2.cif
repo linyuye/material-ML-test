@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Co5O2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.21893764
+_cell_length_b   4.78895986
+_cell_length_c   15.93180302
+_cell_angle_alpha   85.61517032
+_cell_angle_beta   93.82906282
+_cell_angle_gamma   91.12553145
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co5O2
+_chemical_formula_sum   'Co5 O2'
+_cell_volume   244.30296381
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.82903540  0.12493905  0.37002531  1
+  Co  Co1  1  0.59684533  0.28259769  0.63748908  1
+  Co  Co2  1  0.00077616  0.72467422  0.58752787  1
+  Co  Co3  1  0.96981239  0.99779606  0.31445622  1
+  O  O4  1  0.44958332  0.37570399  0.32323411  1
+  Co  Co5  1  0.78354603  0.42368016  0.92283183  1
+  O  O6  1  0.84246665  0.16889136  0.10712964  1

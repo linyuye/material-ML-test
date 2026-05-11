@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_YMg2MnAlInCuAgSb(ClO)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.85031176
+_cell_length_b   3.41588344
+_cell_length_c   12.54160270
+_cell_angle_alpha   85.31313318
+_cell_angle_beta   93.42284776
+_cell_angle_gamma   86.48278934
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YMg2MnAlInCuAgSb(ClO)2
+_chemical_formula_sum   'Y1 Mg2 Mn1 Al1 In1 Cu1 Ag1 Sb1 Cl2 O2'
+_cell_volume   163.74103059
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sb  Sb0  1  0.71465468  0.66842294  0.12847076  1
+  Mn  Mn1  1  0.79093343  0.64767051  0.60809386  1
+  In  In2  1  0.94468760  0.59101319  0.90130955  1
+  O  O3  1  0.88579553  0.49949703  0.39723814  1
+  Cl  Cl4  1  0.15867537  0.94470567  0.31589434  1
+  Ag  Ag5  1  0.76952416  0.16957650  0.72417372  1
+  Al  Al6  1  0.13784195  0.16471520  0.06970084  1
+  Mg  Mg7  1  0.38368025  0.53709865  0.13462634  1
+  Cl  Cl8  1  0.10252206  0.48536897  0.41080087  1
+  O  O9  1  0.48628795  0.55982685  0.39055073  1
+  Cu  Cu10  1  0.83441389  0.55557775  0.10845250  1
+  Mg  Mg11  1  0.90759301  0.33309436  0.27065662  1
+  Y  Y12  1  0.00604928  0.54949468  0.57080740  1

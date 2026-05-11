@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_BaBiBOs(ClO)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.59308577
+_cell_length_b   3.36686948
+_cell_length_c   14.23752788
+_cell_angle_alpha   90.96850157
+_cell_angle_beta   89.45832751
+_cell_angle_gamma   61.99824424
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaBiBOs(ClO)4
+_chemical_formula_sum   'Ba1 Bi1 B1 Os1 Cl4 O4'
+_cell_volume   194.33317763
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.02819455  0.66589153  0.33683732  1
+  Bi  Bi1  1  0.05965317  0.01033843  0.43485466  1
+  O  O2  1  0.28328273  0.27346647  0.41624504  1
+  O  O3  1  0.72055095  0.15731177  0.64927197  1
+  O  O4  1  0.94708294  0.29576284  0.99285012  1
+  Cl  Cl5  1  0.35719317  0.52262568  0.37419492  1
+  Cl  Cl6  1  0.52536213  0.36780566  0.65318173  1
+  Cl  Cl7  1  0.49795523  0.66369694  0.68670398  1
+  Cl  Cl8  1  0.00482548  0.72055322  0.42762768  1
+  O  O9  1  0.18434872  0.27135187  0.30015463  1
+  B  B10  1  0.44030616  0.93163931  0.46889934  1
+  Os  Os11  1  0.43810436  0.30171418  0.47816905  1

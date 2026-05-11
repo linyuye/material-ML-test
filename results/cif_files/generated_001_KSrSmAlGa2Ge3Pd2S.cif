@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_KSrSmAlGa2Ge3Pd2S
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.59308577
+_cell_length_b   3.36686948
+_cell_length_c   14.23752788
+_cell_angle_alpha   90.96850157
+_cell_angle_beta   89.45832751
+_cell_angle_gamma   61.99824424
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KSrSmAlGa2Ge3Pd2S
+_chemical_formula_sum   'K1 Sr1 Sm1 Al1 Ga2 Ge3 Pd2 S1'
+_cell_volume   194.33317763
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.73339844  0.85864258  0.76757812  1
+  Pd  Pd1  1  0.24804688  0.80859375  0.05371094  1
+  Ge  Ge2  1  0.34375000  0.59765625  0.46875000  1
+  Ge  Ge3  1  0.79199219  0.33496094  0.23632812  1
+  Ga  Ga4  1  0.20410156  0.55224609  0.45703125  1
+  Ge  Ge5  1  0.47363281  0.08593750  0.73889160  1
+  Pd  Pd6  1  0.79492188  0.62158203  0.67480469  1
+  Sm  Sm7  1  0.39160156  0.42968750  0.87304688  1
+  Al  Al8  1  0.66406250  0.36523438  0.22839355  1
+  Ga  Ga9  1  0.49316406  0.53710938  0.34277344  1
+  S  S10  1  0.90625000  0.51562500  0.42382812  1
+  K  K11  1  0.24108887  0.13867188  0.38378906  1

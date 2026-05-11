@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_KSr2YAl3Ga2H(PdS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.73235226
+_cell_length_b   4.20223002
+_cell_length_c   13.66458096
+_cell_angle_alpha   85.20584511
+_cell_angle_beta   94.69909819
+_cell_angle_gamma   113.27098494
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KSr2YAl3Ga2H(PdS2)2
+_chemical_formula_sum   'K1 Sr2 Y1 Al3 Ga2 H1 Pd2 S4'
+_cell_volume   248.40422843
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  1  0.94140625  0.36938477  0.15698242  1
+  Sr  Sr1  1  0.25976562  0.40429688  0.39111328  1
+  Sr  Sr2  1  0.62060547  0.48828125  0.86035156  1
+  Al  Al3  1  0.32324219  0.02929688  0.02490234  1
+  Ga  Ga4  1  0.26367188  0.10571289  0.05078125  1
+  Pd  Pd5  1  0.26660156  0.27929688  0.06274414  1
+  K  K6  1  0.70410156  0.86621094  0.28710938  1
+  Al  Al7  1  0.37695312  0.36523438  0.05566406  1
+  S  S8  1  0.63281250  0.18457031  0.44274902  1
+  S  S9  1  0.60937500  0.38827515  0.45312500  1
+  H  H10  1  0.33105469  0.51171875  0.51123047  1
+  S  S11  1  0.13671875  0.49511719  0.28546143  1
+  Y  Y12  1  0.11425781  0.70703125  0.17968750  1
+  Al  Al13  1  0.52392578  0.13867188  0.17187500  1
+  Ga  Ga14  1  0.57031250  0.46093750  0.75585938  1
+  Pd  Pd15  1  0.25878906  0.68896484  0.35815430  1

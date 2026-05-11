@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_LiHoLuHfMg2MnSnPbO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.34104824
+_cell_length_b   3.13010316
+_cell_length_c   15.59108441
+_cell_angle_alpha   94.65632019
+_cell_angle_beta   93.08397349
+_cell_angle_gamma   76.32296320
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiHoLuHfMg2MnSnPbO
+_chemical_formula_sum   'Li1 Ho1 Lu1 Hf1 Mg2 Mn1 Sn1 Pb1 O1'
+_cell_volume   157.80171085
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.65271467  0.41422936  0.35036951  1
+  O  O1  1  0.29271606  0.95356572  0.15590216  1
+  Sn  Sn2  1  0.07259257  0.28620166  0.63114297  1
+  Lu  Lu3  1  0.48717779  0.20858607  0.80030465  1
+  Li  Li4  1  0.24111465  0.81801397  0.26818120  1
+  Pb  Pb5  1  0.47611052  0.09711349  0.13472611  1
+  Mg  Mg6  1  0.08876560  0.34914947  0.61423260  1
+  Ho  Ho7  1  0.63805741  0.28597835  0.07651696  1
+  Mg  Mg8  1  0.80841357  0.23816554  0.98476756  1
+  Hf  Hf9  1  0.37254733  0.40183538  0.08455431  1

@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_PaAl3Ga6Pd5S2F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.28184843
+_cell_length_b   4.60439388
+_cell_length_c   8.59640561
+_cell_angle_alpha   94.86886897
+_cell_angle_beta   92.72244759
+_cell_angle_gamma   68.91009724
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PaAl3Ga6Pd5S2F
+_chemical_formula_sum   'Pa1 Al3 Ga6 Pd5 S2 F1'
+_cell_volume   120.74112261
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.41650391  0.85937500  0.67285156  1
+  Pd  Pd1  1  0.02900696  0.42578125  0.05859375  1
+  Ga  Ga2  1  0.32421875  0.52734375  0.26660156  1
+  Al  Al3  1  0.20898438  0.88000488  0.03515625  1
+  S  S4  1  0.81640625  0.47290039  0.39257812  1
+  Ga  Ga5  1  0.31250000  0.39843750  0.11230469  1
+  Al  Al6  1  0.00976562  0.15625000  0.03613281  1
+  Pd  Pd7  1  0.66796875  0.55566406  0.88671875  1
+  F  F8  1  0.80371094  0.53125000  0.59472656  1
+  Ga  Ga9  1  0.36474609  0.14062500  0.71875000  1
+  Ga  Ga10  1  0.45605469  0.19433594  0.16601562  1
+  Ga  Ga11  1  0.20507812  0.88281250  0.11328125  1
+  Ga  Ga12  1  0.05273438  0.14367676  0.87792969  1
+  Pd  Pd13  1  0.82226562  0.79296875  0.23608398  1
+  Pd  Pd14  1  0.93847656  0.44140625  0.29827881  1
+  Pd  Pd15  1  0.86718750  0.90185547  0.68960571  1
+  Pa  Pa16  1  0.47290039  0.18945312  0.93554688  1
+  S  S17  1  0.85156250  0.86816406  0.06387329  1

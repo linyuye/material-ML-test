@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_DyHoMg2MnBeCoNiSnGeBiBCS2NO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.07938433
+_cell_length_b   4.17350234
+_cell_length_c   15.72204241
+_cell_angle_alpha   91.07034255
+_cell_angle_beta   87.75999185
+_cell_angle_gamma   75.73914606
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyHoMg2MnBeCoNiSnGeBiBCS2NO5
+_chemical_formula_sum
+'Dy1 Ho1 Mg2 Mn1 Be1 Co1 Ni1 Sn1 Ge1 Bi1 B1 C1 S2 N1 O5'
+_cell_volume   259.11526607
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.32287848  0.32110026  0.03327776  1
+  O  O1  1  0.90970969  0.16786921  0.59850442  1
+  B  B2  1  0.11314628  0.51235187  0.96976542  1
+  O  O3  1  0.82359278  0.54560447  0.50266731  1
+  O  O4  1  0.02453840  0.79935426  0.44812787  1
+  Mn  Mn5  1  0.80696934  0.46239156  0.06235966  1
+  Sn  Sn6  1  0.21696828  0.53580022  0.05814408  1
+  Ge  Ge7  1  0.24655069  0.13892353  0.55430496  1
+  Dy  Dy8  1  0.85272372  0.56239903  0.45101428  1
+  N  N9  1  0.40445825  0.21205004  0.04695131  1
+  S  S10  1  0.56690705  0.33166730  0.41266364  1
+  Co  Co11  1  0.28635514  0.34646231  0.01376294  1
+  Ho  Ho12  1  0.94256145  0.26199117  0.44353604  1
+  Ni  Ni13  1  0.45607945  0.37216282  0.04384999  1
+  Bi  Bi14  1  0.39195579  0.43884385  0.01908528  1
+  C  C15  1  0.15981875  0.01355758  0.75839436  1
+  Mg  Mg16  1  0.63987720  0.20050983  0.16008930  1
+  O  O17  1  0.00421150  0.36859116  0.29146364  1
+  Be  Be18  1  0.66430694  0.13538116  0.77822763  1
+  S  S19  1  0.31682193  0.52785003  0.71397936  1
+  Mg  Mg20  1  0.99712223  0.60043055  0.29049689  1

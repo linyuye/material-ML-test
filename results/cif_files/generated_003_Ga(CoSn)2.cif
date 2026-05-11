@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Ga(CoSn)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.89950824
+_cell_length_b   3.79030041
+_cell_length_c   15.41327078
+_cell_angle_alpha   92.27272000
+_cell_angle_beta   88.26540763
+_cell_angle_gamma   94.93107840
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ga(CoSn)2
+_chemical_formula_sum   'Ga4 Co8 Sn8'
+_cell_volume   226.70860055
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  1  nan  nan  nan  1
+  Co  Co1  1  nan  nan  nan  1
+  Sn  Sn2  1  nan  nan  nan  1
+  Sn  Sn3  1  nan  nan  nan  1
+  Co  Co4  1  nan  nan  nan  1
+  Ga  Ga5  1  nan  nan  nan  1
+  Ga  Ga6  1  nan  nan  nan  1
+  Ga  Ga7  1  nan  nan  nan  1
+  Ga  Ga8  1  nan  nan  nan  1
+  Co  Co9  1  nan  nan  nan  1
+  Sn  Sn10  1  nan  nan  nan  1
+  Sn  Sn11  1  nan  nan  nan  1
+  Sn  Sn12  1  nan  nan  nan  1
+  Co  Co13  1  nan  nan  nan  1
+  Co  Co14  1  nan  nan  nan  1
+  Co  Co15  1  nan  nan  nan  1
+  Sn  Sn16  1  nan  nan  nan  1
+  Co  Co17  1  nan  nan  nan  1
+  Sn  Sn18  1  nan  nan  nan  1
+  Co  Co19  1  nan  nan  nan  1

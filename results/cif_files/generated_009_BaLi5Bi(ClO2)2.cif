@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_BaLi5Bi(ClO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.68906784
+_cell_length_b   4.49464039
+_cell_length_c   12.31753746
+_cell_angle_alpha   90.86751161
+_cell_angle_beta   94.65255282
+_cell_angle_gamma   97.49239712
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaLi5Bi(ClO2)2
+_chemical_formula_sum   'Ba1 Li5 Bi1 Cl2 O4'
+_cell_volume   256.44898492
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi0  1  0.24255347  0.93207377  0.37976214  1
+  Li  Li1  1  0.84532672  0.58984077  0.40340626  1
+  Ba  Ba2  1  0.28952113  0.78149670  0.12322345  1
+  Li  Li3  1  0.19642879  0.53471869  0.16537414  1
+  Li  Li4  1  0.78799129  0.68937463  0.99635035  1
+  O  O5  1  0.81117707  0.58862048  0.60373425  1
+  Cl  Cl6  1  0.37043643  0.77615964  0.14154802  1
+  Li  Li7  1  0.01844631  0.30275559  0.23190428  1
+  Li  Li8  1  0.87782621  0.42257541  0.08768564  1
+  O  O9  1  0.18031426  0.48780018  0.66152239  1
+  O  O10  1  0.59837443  0.17779118  0.33543563  1
+  O  O11  1  0.84906381  0.07404967  0.93183941  1
+  Cl  Cl12  1  0.31062588  0.25041851  0.77970755  1

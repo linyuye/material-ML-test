@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Ni4P3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.59302020
+_cell_length_b   3.83956164
+_cell_length_c   10.04965545
+_cell_angle_alpha   91.11513713
+_cell_angle_beta   85.81594184
+_cell_angle_gamma   55.36293990
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ni4P3
+_chemical_formula_sum   'Ni4 P3'
+_cell_volume   113.45163283
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  P  P0  1  nan  nan  nan  1
+  P  P1  1  nan  nan  nan  1
+  P  P2  1  nan  nan  nan  1
+  Ni  Ni3  1  nan  nan  nan  1
+  Ni  Ni4  1  nan  nan  nan  1
+  Ni  Ni5  1  nan  nan  nan  1
+  Ni  Ni6  1  nan  nan  nan  1

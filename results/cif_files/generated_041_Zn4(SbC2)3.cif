@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Zn4(SbC2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.78489017
+_cell_length_b   4.63319899
+_cell_length_c   11.51307959
+_cell_angle_alpha   88.76944433
+_cell_angle_beta   89.62679785
+_cell_angle_gamma   76.09645201
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn4(SbC2)3
+_chemical_formula_sum   'Zn4 Sb3 C6'
+_cell_volume   195.93449205
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  C  C0  1  nan  nan  nan  1
+  C  C1  1  nan  nan  nan  1
+  C  C2  1  nan  nan  nan  1
+  Zn  Zn3  1  nan  nan  nan  1
+  Sb  Sb4  1  nan  nan  nan  1
+  Zn  Zn5  1  nan  nan  nan  1
+  Sb  Sb6  1  nan  nan  nan  1
+  C  C7  1  nan  nan  nan  1
+  Zn  Zn8  1  nan  nan  nan  1
+  C  C9  1  nan  nan  nan  1
+  C  C10  1  nan  nan  nan  1
+  Sb  Sb11  1  nan  nan  nan  1
+  Zn  Zn12  1  nan  nan  nan  1

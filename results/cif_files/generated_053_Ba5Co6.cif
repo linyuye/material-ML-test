@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Ba5Co6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.84407210
+_cell_length_b   3.70774281
+_cell_length_c   15.66901735
+_cell_angle_alpha   86.84370936
+_cell_angle_beta   85.90336946
+_cell_angle_gamma   108.96901435
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba5Co6
+_chemical_formula_sum   'Ba5 Co6'
+_cell_volume   209.93362746
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.90741730  0.11958724  0.03862512  1
+  Co  Co1  1  0.13185214  0.54259211  0.64075422  1
+  Ba  Ba2  1  0.39715871  0.61696053  0.81856209  1
+  Co  Co3  1  0.42383716  0.44436947  0.52293819  1
+  Co  Co4  1  0.76071584  0.28099620  0.66319096  1
+  Ba  Ba5  1  0.45792282  0.38895017  0.47579619  1
+  Ba  Ba6  1  0.71840662  0.19307728  0.08748855  1
+  Ba  Ba7  1  0.87693959  0.42103973  0.51764703  1
+  Co  Co8  1  0.69377327  0.84858501  0.16962095  1
+  Co  Co9  1  0.28544208  0.41197252  0.02925898  1
+  Ba  Ba10  1  0.42519680  0.92164087  0.64594752  1

@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Pt5S12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.82472658
+_cell_length_b   3.42132445
+_cell_length_c   12.98373268
+_cell_angle_alpha   91.31560218
+_cell_angle_beta   92.33113015
+_cell_angle_gamma   64.20973765
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pt5S12
+_chemical_formula_sum   'Pt5 S12'
+_cell_volume   192.81087601
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pt  Pt0  1  nan  nan  nan  1
+  S  S1  1  nan  nan  nan  1
+  S  S2  1  nan  nan  nan  1
+  S  S3  1  nan  nan  nan  1
+  S  S4  1  nan  nan  nan  1
+  S  S5  1  nan  nan  nan  1
+  S  S6  1  nan  nan  nan  1
+  S  S7  1  nan  nan  nan  1
+  S  S8  1  nan  nan  nan  1
+  S  S9  1  nan  nan  nan  1
+  Pt  Pt10  1  nan  nan  nan  1
+  S  S11  1  nan  nan  nan  1
+  S  S12  1  nan  nan  nan  1
+  Pt  Pt13  1  nan  nan  nan  1
+  S  S14  1  nan  nan  nan  1
+  Pt  Pt15  1  nan  nan  nan  1
+  Pt  Pt16  1  nan  nan  nan  1

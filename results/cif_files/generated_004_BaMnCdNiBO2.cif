@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_BaMnCdNiBO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.88030505
+_cell_length_b   3.24407642
+_cell_length_c   11.96141497
+_cell_angle_alpha   85.34388500
+_cell_angle_beta   94.09320408
+_cell_angle_gamma   73.11459898
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaMnCdNiBO2
+_chemical_formula_sum   'Ba1 Mn1 Cd1 Ni1 B1 O2'
+_cell_volume   142.88989498
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.06964086  0.50267875  0.28409505  1
+  Ni  Ni1  1  0.36056632  0.40093324  0.54238230  1
+  Cd  Cd2  1  0.23927198  0.09760673  0.67764163  1
+  B  B3  1  0.75032723  0.91667849  0.82469964  1
+  O  O4  1  0.83948249  0.55843174  0.46254465  1
+  Ba  Ba5  1  0.55832714  0.21533401  0.02296211  1
+  O  O6  1  0.10739783  0.54408425  0.42164686  1

@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_KMgZrZn2CoSnGeP3OsCOF
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.19579983
+_cell_length_b   4.84374864
+_cell_length_c   8.70793961
+_cell_angle_alpha   86.95982848
+_cell_angle_beta   85.45227273
+_cell_angle_gamma   77.77312334
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KMgZrZn2CoSnGeP3OsCOF
+_chemical_formula_sum   'K1 Mg1 Zr1 Zn2 Co1 Sn1 Ge1 P3 Os1 C1 O1 F1'
+_cell_volume   172.29665670
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.52578723  0.53050190  0.88535035  1
+  Co  Co1  1  0.61392576  0.22624689  0.10753376  1
+  Zr  Zr2  1  0.02894890  0.92230397  0.12139226  1
+  Zn  Zn3  1  0.26535070  0.24352024  0.41409922  1
+  K  K4  1  0.72180355  0.23725885  0.18543838  1
+  Os  Os5  1  0.32672930  0.18503506  0.11182100  1
+  Mg  Mg6  1  0.09856843  0.31763723  0.07675661  1
+  Ge  Ge7  1  0.40403622  0.67145604  0.09028506  1
+  C  C8  1  0.69739062  0.42216775  0.74920386  1
+  P  P9  1  0.21641472  0.86464536  0.10119802  1
+  P  P10  1  0.34139940  0.25775570  0.85895073  1
+  O  O11  1  0.41353923  0.41460755  0.35303339  1
+  Zn  Zn12  1  0.77123171  0.81825644  0.11785928  1
+  P  P13  1  0.73121464  0.50903177  0.22489081  1
+  Sn  Sn14  1  0.28667957  0.31376639  0.09779236  1

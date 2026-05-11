@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Ni7O4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.06789207
+_cell_length_b   4.39484051
+_cell_length_c   10.37879199
+_cell_angle_alpha   94.24396190
+_cell_angle_beta   94.71058258
+_cell_angle_gamma   121.09865568
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ni7O4
+_chemical_formula_sum   'Ni14 O8'
+_cell_volume   118.30322165
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  1  nan  nan  nan  1
+  Ni  Ni1  1  nan  nan  nan  1
+  Ni  Ni2  1  nan  nan  nan  1
+  O  O3  1  nan  nan  nan  1
+  O  O4  1  nan  nan  nan  1
+  O  O5  1  nan  nan  nan  1
+  O  O6  1  nan  nan  nan  1
+  Ni  Ni7  1  nan  nan  nan  1
+  Ni  Ni8  1  nan  nan  nan  1
+  O  O9  1  nan  nan  nan  1
+  Ni  Ni10  1  nan  nan  nan  1
+  Ni  Ni11  1  nan  nan  nan  1
+  Ni  Ni12  1  nan  nan  nan  1
+  O  O13  1  nan  nan  nan  1
+  Ni  Ni14  1  nan  nan  nan  1
+  Ni  Ni15  1  nan  nan  nan  1
+  Ni  Ni16  1  nan  nan  nan  1
+  Ni  Ni17  1  nan  nan  nan  1
+  O  O18  1  nan  nan  nan  1
+  Ni  Ni19  1  nan  nan  nan  1
+  O  O20  1  nan  nan  nan  1
+  Ni  Ni21  1  nan  nan  nan  1

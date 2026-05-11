@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_LiBeFeBi2(ClO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.09333134
+_cell_length_b   4.94751083
+_cell_length_c   9.86217041
+_cell_angle_alpha   85.90606429
+_cell_angle_beta   91.18386016
+_cell_angle_gamma   81.77233890
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiBeFeBi2(ClO4)2
+_chemical_formula_sum   'Li1 Be1 Fe1 Bi2 Cl2 O8'
+_cell_volume   148.92592929
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.08346131  0.49768490  0.09237429  1
+  O  O1  1  0.42328614  0.48027641  0.29824108  1
+  Cl  Cl2  1  0.49422926  0.26848724  0.71427447  1
+  O  O3  1  0.77951550  0.17305237  0.85814857  1
+  Fe  Fe4  1  0.97375196  0.66814965  0.38153973  1
+  Li  Li5  1  0.63708949  0.26833078  0.05855898  1
+  Bi  Bi6  1  0.32832822  0.69893229  0.34429339  1
+  O  O7  1  0.55970520  0.88837278  0.50510687  1
+  O  O8  1  0.23747282  0.98663932  0.83346158  1
+  Cl  Cl9  1  0.41460189  0.57352304  0.05495887  1
+  O  O10  1  0.47165942  0.09325249  0.14588809  1
+  Bi  Bi11  1  0.05790085  0.42364636  0.64291131  1
+  Be  Be12  1  0.78461158  0.27449659  0.42750013  1
+  O  O13  1  0.50778449  0.26715928  0.18806113  1
+  O  O14  1  0.56850141  0.13751668  0.22598568  1

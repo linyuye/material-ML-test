@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_RbHf2AlCo2SiAgGeBIrO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.36686969
+_cell_length_b   4.55938197
+_cell_length_c   12.77480159
+_cell_angle_alpha   89.45832754
+_cell_angle_beta   85.99974930
+_cell_angle_gamma   87.14742234
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbHf2AlCo2SiAgGeBIrO
+_chemical_formula_sum   'Rb1 Hf2 Al1 Co2 Si1 Ag1 Ge1 B1 Ir1 O1'
+_cell_volume   195.38031496
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ge  Ge0  1  0.61294144  0.70319724  0.04612131  1
+  Co  Co1  1  0.37688735  0.84357136  0.17370412  1
+  Hf  Hf2  1  0.66961670  0.33756942  0.15017556  1
+  Ir  Ir3  1  0.36735204  0.18437605  0.66045165  1
+  Co  Co4  1  0.07949918  0.14991191  0.98449534  1
+  B  B5  1  0.32096395  0.40307096  0.44962269  1
+  Si  Si6  1  0.42463705  0.69299352  0.83095199  1
+  Ag  Ag7  1  0.53007841  0.64584273  0.03631279  1
+  Rb  Rb8  1  0.08446695  0.36589089  0.28471649  1
+  Al  Al9  1  0.73942816  0.31550187  0.67961609  1
+  O  O10  1  0.04105191  0.16527335  0.03488798  1
+  Hf  Hf11  1  0.51484573  0.29931107  0.54091424  1

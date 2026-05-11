@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Mn7(NbAs)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.54448938
+_cell_length_b   3.39743145
+_cell_length_c   8.04417728
+_cell_angle_alpha   93.15461415
+_cell_angle_beta   92.06857342
+_cell_angle_gamma   106.03050117
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn7(NbAs)3
+_chemical_formula_sum   'Mn7 Nb3 As3'
+_cell_volume   119.01806534
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.20791604  0.49145305  0.32667944  1
+  Mn  Mn1  1  0.56758064  0.70000052  0.77877945  1
+  Mn  Mn2  1  0.62051022  0.43739286  0.84885603  1
+  Mn  Mn3  1  0.05452496  0.08420657  0.08667491  1
+  Mn  Mn4  1  0.13223034  0.81965274  0.60129124  1
+  As  As5  1  0.71777731  0.41518393  0.14958349  1
+  Nb  Nb6  1  0.25381351  0.50336802  0.72704816  1
+  Mn  Mn7  1  0.82693982  0.13471064  0.83727044  1
+  As  As8  1  0.19265231  0.06002565  0.93975192  1
+  Nb  Nb9  1  0.68237543  0.55097330  0.47644258  1
+  As  As10  1  0.13865581  0.99705565  0.37709430  1
+  Nb  Nb11  1  0.22068936  0.51789081  0.84172058  1
+  Mn  Mn12  1  0.90073317  0.61686212  0.75964862  1
