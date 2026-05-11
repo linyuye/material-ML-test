@@ -46,12 +46,12 @@ project/
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                    DIFFUSION PROCESS                             │
-│                                                                  │
-│  Forward: x_0 ──→ x_1 ──→ ... ──→ x_T  (add noise)             │
-│  Reverse: x_T ──→ x_{T-1} ──→ ... ──→ x_0  (EGNN denoise)     │
-│                                                                  │
-│  x_t = √(ᾱ_t) x_0 + √(1-ᾱ_t) ε,   ε ~ N(0,I)                  │
+│                    DIFFUSION PROCESS                            │
+│                                                                 │
+│  Forward: x_0 ──→ x_1 ──→ ... ──→ x_T  (add noise)              │
+│  Reverse: x_T ──→ x_{T-1} ──→ ... ──→ x_0  (EGNN denoise)       │
+│                                                                 │
+│  x_t = √(ᾱ_t) x_0 + √(1-ᾱ_t) ε,   ε ~ N(0,I)                    │
 │  Noise Schedule: Cosine (s=0.008, T=1000)                       │
 └─────────────────────────────────────────────────────────────────┘
 ```
@@ -63,24 +63,24 @@ project/
 │  Input: noisy frac_coords, atom_types, t, properties │
 │                      ↓                               │
 │  ┌──────────────────────────────────────┐            │
-│  │  Atom Embedding + Coord Embedding     │            │
+│  │  Atom Embedding + Coord Embedding    │            │
 │  │  + Time Embedding (Sinusoidal)       │            │
 │  │  + Property Conditioning (MLP)       │            │
 │  └──────────────────────────────────────┘            │
 │                      ↓                               │
 │  ┌──────────────────────────────────────┐            │
-│  │  EGNN Layer × 4                       │            │
+│  │  EGNN Layer × 4                      │            │
 │  │  - Edge MLP: (2h+e) → h              │            │
 │  │  - Message Passing + Dropout(0.1)    │            │
 │  │  - Coord Update (equivariant)        │            │
 │  │  - Node Update (invariant)           │            │
 │  └──────────────────────────────────────┘            │
 │                      ↓                               │
-│  ┌──────────┐  ┌──────────┐  ┌──────────────┐       │
-│  │Coord Head│  │Atom Head │  │Property Head │       │
-│  │h → 3    │  │h → 100  │  │h → 3        │       │
-│  └──────────┘  └──────────┘  └──────────────┘       │
-│   pred noise    atom logits    (HER,Stab,Syn)       │
+│  ┌──────────┐  ┌──────────┐  ┌──────────────┐        │
+│  │Coord Head│  │Atom Head │  │Property Head │        │
+│  │h → 3     │  │h → 100   │  │h → 3         │        │
+│  └──────────┘  └──────────┘  └──────────────┘        │
+│   pred noise    atom logits    (HER,Stab,Syn)        │
 └──────────────────────────────────────────────────────┘
 ```
 
@@ -88,8 +88,8 @@ project/
 
 ```
 ┌─────────────────────────────────────────────────┐
-│            Crystal Graph (Nodes + Edges)          │
-│                      ↓                            │
+│            Crystal Graph (Nodes + Edges)        │
+│                      ↓                          │
 │    ┌─────────┐  ┌──────────┐  ┌──────────────┐  │
 │    │  HER    │  │Stability │  │  Synthesis   │  │
 │    │Predictor│  │Predictor │  │  Predictor   │  │
@@ -98,12 +98,12 @@ project/
 │    │ ΔG_H    │  │ E_form   │  │ Score [0,1]  │  │
 │    │ Score   │  │ E_hull   │  │ Complexity   │  │
 │    └─────────┘  └──────────┘  └──────────────┘  │
-│                      ↓                            │
-│    ┌─────────────────────────────────────────┐   │
-│    │     Multi-Objective Loss                 │   │
-│    │  L = 1.0·L_diff + 0.5·L_HER             │   │
-│    │    + 0.3·L_stab + 0.2·L_syn             │   │
-│    └─────────────────────────────────────────┘   │
+│                      ↓                          │
+│    ┌─────────────────────────────────────────┐  │
+│    │     Multi-Objective Loss                │  │
+│    │  L = 1.0·L_diff + 0.5·L_HER             │  │
+│    │    + 0.3·L_stab + 0.2·L_syn             │  │
+│    └─────────────────────────────────────────┘  │
 └─────────────────────────────────────────────────┘
 ```
 
